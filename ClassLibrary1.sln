@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquationSolver", "ClassLibrary1\EquationSolver.csproj", "{B9343982-BEC9-48F5-9F59-324531CB72BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_equation_solver", "Test_equation_solver\Test_equation_solver.csproj", "{52D56D9B-E080-4D98-8872-CC18CA52AC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9343982-BEC9-48F5-9F59-324531CB72BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9343982-BEC9-48F5-9F59-324531CB72BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9343982-BEC9-48F5-9F59-324531CB72BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9343982-BEC9-48F5-9F59-324531CB72BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D56D9B-E080-4D98-8872-CC18CA52AC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D56D9B-E080-4D98-8872-CC18CA52AC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D56D9B-E080-4D98-8872-CC18CA52AC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D56D9B-E080-4D98-8872-CC18CA52AC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A56E98-864E-4C4A-9CEB-49EE0EF7A9BC}
+	EndGlobalSection
+EndGlobal
